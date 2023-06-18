@@ -1,6 +1,3 @@
-/* Crie uma função que recebe um array de números e retorna o segundo maior
-número presente nesse array. */
-
 function sgmaior(num) {
     if (num.length < 2){
         return 'Números insuficientes'
